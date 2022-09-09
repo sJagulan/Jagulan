@@ -1,4 +1,4 @@
-package com.homy.rest.exception;
+package com.jagulan.s3881257.exceptions;
 
 public class MissingHeaderException extends RuntimeException
 {

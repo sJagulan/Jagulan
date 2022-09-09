@@ -1,4 +1,4 @@
-package com.homy.rest.exception;
+package com.jagulan.s3881257.exceptions;
 
 import java.util.ArrayList;
 import java.util.List;
